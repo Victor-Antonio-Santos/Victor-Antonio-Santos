@@ -8,18 +8,10 @@
 - Apaixonado Por Nartureza
 
 
-
-<div> 
-<a href="https://www.instagram.com/victor_zk3/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:va1760520@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/victor-antônio-3a6a3728a/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
-</div>
-
-
-
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Antonio-Santos&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso no dia a dia
+### Tecnologias que mais uso
+
 
 <div style="display: inline_blok"><br/>
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -29,6 +21,11 @@
     <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img aling="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <div><br/>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="650" height="1">
+</p>
+
 
 ![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
 
