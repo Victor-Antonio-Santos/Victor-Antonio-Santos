@@ -10,7 +10,7 @@
 
 
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=StewVictor&show_icons=true&theme=radical)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Antonio-Santos&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no dia a dia
 
