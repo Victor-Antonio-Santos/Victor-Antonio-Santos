@@ -1,6 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Antonio+🥶+😆;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+
+- Estudante Full Stack
+- Amo Tecnologia!
+- Apaixonado Por Nartureza
 
 
-### Olá eu sou o Victor Antonio🥶😆
 
 <div> 
 <a href="https://www.instagram.com/victor_zk3/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,5 +30,11 @@
     <img aling="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <div><br/>
 
-### Apaixonado por tecnologia, jogos e natureza. 
-"A liberdade é o maior prazer de uma pessoa"
+![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+<br><p align="centre"><b>Você é meu visitante nº</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victor-Antonio-Santos}/count.svg" /></p> 
+<br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
