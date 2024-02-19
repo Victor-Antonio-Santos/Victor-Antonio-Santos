@@ -10,6 +10,7 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Antonio-Santos&show_icons=true&theme=radical)
 
+    
 ### Tecnologias que mais uso
 
 
