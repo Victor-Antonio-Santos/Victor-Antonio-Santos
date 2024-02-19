@@ -9,6 +9,7 @@
 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Antonio-Santos&show_icons=true&theme=radical)
+<img src="https://github.com/anuraghazra/github-readme-stats/api?username=anuraghazra&show_icons=true" />
 
 ### Tecnologias que mais uso
 
