@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Antonio+🥶+😆;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">
 
-- Estudante Full Stack
+- Full Stack Estudante 
 - Amo Tecnologia!
 - Apaixonado Por Nartureza
 
