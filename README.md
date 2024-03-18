@@ -22,11 +22,11 @@
 <img align="center" alt="victor-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
 <img align="center" alt="victor-MySQL" height="50" width="50" src="https://techstack-generator.vercel.app/mysql-icon.svg">
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/pycharm.png" alt="pycharm"/>
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
+<!-- <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/pycharm.png" alt="pycharm"/>
+<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/> -->
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/django.png" alt="django"/>
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+<!-- <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> -->
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 </div>
 
