@@ -3,20 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Antonio+🥶+😆;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">
 
-- Full Stack Estudante 
-- Amo Tecnologia!
-- Apaixonado Por Nartureza
+- Estudante de Full Stack
 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Antonio-Santos&show_icons=true&theme=radical)
 
     
-### Tecnologias que mais uso
+### Tecnologias principais
 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="victor-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
-<img align="center" alt="victor-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="victor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="victor-Java" height="40" width="40" src="https://techstack-generator.vercel.app/java-icon.svg">
 <img align="center" alt="victor-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
@@ -24,8 +21,6 @@
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <!-- <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/pycharm.png" alt="pycharm"/>
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/> -->
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/django.png" alt="django"/>
 <!-- <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> -->
 <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 </div>
