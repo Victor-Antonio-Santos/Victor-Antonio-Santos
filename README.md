@@ -12,17 +12,14 @@
 ### Tecnologias principais
 
 
-<div style="display: inline_block"><br>
-<img align="center" alt="victor-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
-<img align="center" alt="victor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="victor-Java" height="40" width="40" src="https://techstack-generator.vercel.app/java-icon.svg">
-<img align="center" alt="victor-MySQL" height="50" width="50" src="https://techstack-generator.vercel.app/mysql-icon.svg">
-<img align="center" alt="victor-IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<!-- <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/pycharm.png" alt="pycharm"/>
-<img align="center" alt="victor-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/> -->
-<!-- <img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> 
-<img align="center" alt="victor-MySQL" height="40" width="40" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>-->
+<div align="center">
+
+<img alt="Python" height="45" width="45" src="https://techstack-generator.vercel.app/python-icon.svg">
+<img alt="HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="Java" height="45" width="45" src="https://techstack-generator.vercel.app/java-icon.svg">
+<img alt="MySQL" height="50" width="50" src="https://techstack-generator.vercel.app/mysql-icon.svg">
+<img alt="IntelliJ" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+
 </div>
 
 <p align="center">
