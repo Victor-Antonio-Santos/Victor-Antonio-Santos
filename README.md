@@ -43,6 +43,8 @@
 
 <div align="center">
 <br><p align="centre"><b>Você é meu visitante nº</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victor-Antonio-Santos}/count.svg" /></p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victor-Antonio-Santos&style=for-the-badge&color=blue" alt="Profile Views" />
+</p> 
 <br>
 </div>
