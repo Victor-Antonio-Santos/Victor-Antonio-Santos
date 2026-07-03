@@ -33,11 +33,11 @@
 <div align="center"> 
 <a href="https://www.instagram.com/victor_zk3/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:va1760520@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://github.com/Victor-Antonio-Santos" target="_blank"><img height="30" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="" target="_blank"><img height="30" src="https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <!--<a href="https://github.com/Victor-Antonio-Santos" target="_blank"><img height="30" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"></a>-->
+ <!--<a href="" target="_blank"><img height="30" src="https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white"></a>-->
  <a href="https://www.linkedin.com/in/victor-antônio/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
-<a href="https://www.youtube.com/@StewPlayOficial"><img height="30" src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"></a> 
-</div>
+<!--<a href="https://www.youtube.com/@StewPlayOficial"><img height="30" src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"></a> 
+</div>-->
 
 ![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
 
